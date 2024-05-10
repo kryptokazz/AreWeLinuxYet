@@ -1,0 +1,51 @@
+{
+    "excel": {
+        "name": "LibreOffice Calc",
+        "image": "https://seeklogo.com/images/L/libreoffice-calc-logo-9883553546-seeklogo.com.png"
+    },
+    "word": {
+        "name": "LibreOffice Writer",
+        "image": "https://example.com/images/libreoffice_writer.png"
+    },
+    "zoom": {
+        "name": "Jitsi Meet",
+        "image": "https://example.com/images/jitsi_meet.png"
+    },
+    "freemake": {
+        "name": "No open source alternative found",
+        "image": null
+    },
+    "chrome": {
+        "name": "Mozilla Firefox",
+        "image": "https://example.com/images/mozilla_firefox.png"
+    },
+    "spotify": {
+        "name": "Spotifyd",
+        "image": "https://example.com/images/spotifyd.png"
+    },
+    "powerpoint": {
+        "name": "LibreOffice Impress",
+        "image": "https://example.com/images/libreoffice_impress.png"
+    },
+    "lastpass": {
+        "name": "Bitwarden",
+        "image": "https://example.com/images/bitwarden.png"
+    },
+    "steam": {
+        "name": "Lutris",
+        "image": "https://example.com/images/lutris.png"
+    },
+    "icloud": {
+        "name": "Nextcloud",
+        "image": "https://example.com/images/nextcloud.png"
+    },
+    "adobe_photoshop": {
+        "name": "GIMP",
+        "image": "https://example.com/images/gimp.png"
+    },
+    "google_earth": {
+        "name": "OpenStreetMap",
+        "image": "https://example.com/images/openstreetmap.png"
+    }
+}
+
